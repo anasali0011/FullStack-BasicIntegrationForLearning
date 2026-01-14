@@ -19,4 +19,5 @@ It demonstrates how a React frontend communicates with a Node.js and Express bac
 ---
 
 ## 📂 Project Structure
-
+├── frontend/ # React + Vite frontend
+├── backend/ # Node.js + Express backend
